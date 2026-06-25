@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! I am a passionate **Data Analyst** and **LLM Post Training Intern** pursuing my MCA. I specialize in turning raw data into actionable insights, building interactive dashboards, optimizing data workflows, and developing Retrieval-Augmented Generation (RAG) pipelines.
 
-🌐 **Live Demo:** [Check out my portfolio](http://localhost:8000/) *(or your hosted Netlify/GitHub Pages link)*
+🌐 **Live Demo:** [Check out my portfolio](https://iamamanrai.netlify.app/)
 
 ---
 
